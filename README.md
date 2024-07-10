@@ -1,16 +1,23 @@
-## Hi there 👋
+##  Olá! Eu sou Amanda Bezerra 👋
 
-<!--
-**Amandabezsiv/Amandabezsiv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Sou uma entusiasta de dados e estudante de Ciência da Computação. Aqui você encontrará meus projetos, experimentos e um pouco sobre minha jornada na análise de dados. 📈📊✨
 
-Here are some ideas to get you started:
+![Amanda Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amandabezsiv&layout=compact)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+#### 🌱👩‍💻 Atualmente, estou aprimorando minhas habilidades em Ciência de Dados, trabalhando em projetos envolventes e explorando novas tecnologias.
+
+## 🌐 Conecte-se Comigo
+ 
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amandabezsilv/) 
+
+Sinta-se à vontade para explorar meus repositórios e entrar em contato. Adoro colaborar e aprender com outras pessoas da comunidade!
+<div align="center">
+
+![Descrição do GIF](https://media.giphy.com/media/tgNpIoE3IluB0bpEYl/giphy.gif?cid=ecf05e47wvg2osbo314hkr4dc6utp3jlxy5tfemtmfis585b&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+
+</div>
+
+<div align="center">
+  🌟 Obrigado pela visita! 🌟
+</div>
