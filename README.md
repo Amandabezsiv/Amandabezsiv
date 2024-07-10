@@ -2,8 +2,11 @@
 
 #### Sou uma entusiasta de dados e estudante de Ciência da Computação. Aqui você encontrará meus projetos, experimentos e um pouco sobre minha jornada na análise de dados. 📈📊✨
 
+<div align="center">
+
 ![Amanda Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amandabezsiv&layout=compact)
 
+</div>
 
 #### 🌱👩‍💻 Atualmente, estou aprimorando minhas habilidades em Ciência de Dados, trabalhando em projetos envolventes e explorando novas tecnologias.
 
