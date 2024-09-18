@@ -2,13 +2,9 @@
 
 ### Just a curious soul exploring the world, one quirky project at a time. 👩‍💻
 
-<div align="center">
-
-![Amanda GitHub stats](https://github-readme-stats.vercel.app/api?username=Amandabezsiv&show_icons=true&theme=radical&hide_rank=true)
-
-
-![Amanda Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amandabezsiv&layout=compact)
-
+<div style="display: flex; justify-content: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Amandabezsiv&show_icons=true&theme=radical&hide_rank=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amandabezsiv&layout=compact" />
 </div>
 
 ## 💬 What I’m Up To:
