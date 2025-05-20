@@ -3,7 +3,7 @@
 ## Just a curious soul exploring the world, one quirky project at a time. 👩‍💻
 
 ## ✨ About Me 
-I'm a Computer Science student and backend developer with a passion for building efficient and user-friendly applications. I love exploring new tools, diving into databases, and experimenting with backend frameworks to bring ideas to life. My journey is all about learning, creating, and constantly improving.
+I'm a backend developer with a passion for building efficient and user-friendly applications. I love exploring new tools, diving into databases, and experimenting with backend frameworks to bring ideas to life. My journey is all about learning, creating, and constantly improving.
 
 ## 💬 What I’m Up To:
 - Experimenting with code and creating quirky little projects. 💻📚
