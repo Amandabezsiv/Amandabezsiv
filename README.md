@@ -1,9 +1,13 @@
-# Hey! I'm Amanda 👋✨
+# Hey there! I'm Amanda 👋
 
-## Just a curious soul exploring the world, one quirky project at a time. 👩‍💻
+## Software Developer 
+
+Welcome to my GitHub! I'm a developer who loves building end-to-end applications - from crafting APIs with Python to creating user interfaces with React. I enjoy turning ideas into working software that people can actually use.
 
 ## ✨ About Me 
-I'm a backend developer with a passion for building efficient and user-friendly applications. I love exploring new tools, diving into databases, and experimenting with backend frameworks to bring ideas to life. My journey is all about learning, creating, and constantly improving.
+I build complete applications from backend to frontend, specializing in Python APIs and web interfaces. I enjoy the whole process - designing databases, creating efficient backends with FastAPI/Flask, and bringing it all together with React frontends. My goal is always creating solutions that actually work and make people's lives easier.
+
+## Just a curious soul exploring the world, one quirky project at a time. 👩‍💻
 
 ## 💬 What I’m Up To:
 - Experimenting with code and creating quirky little projects. 💻📚
@@ -15,51 +19,36 @@ I'm a backend developer with a passion for building efficient and user-friendly 
 </div>
 
 
-## 🛠️ Tools I Use
+## 🛠️ Technologies I Use
 
 <div align="center">
-    
-![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
+
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![NoSQL](https://img.shields.io/badge/NoSQL-%23CB2D3E.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Relational Database](https://img.shields.io/badge/Relational_DB-%234479A1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
-![Apache](https://img.shields.io/badge/Apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
-## 📫 How to reach me
+## 📫 Get in Touch
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amandabezsilv/) 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amandabezsilv@gmail.com)
-![Profile Views](https://komarev.com/ghpvc/?username=Amandabezsiv&style=flat-square)
+
 </div>
 
+---
 
 <div align="center">
 
-  ![Descrição do GIF](https://media.giphy.com/media/tgNpIoE3IluB0bpEYl/giphy.gif?cid=ecf05e47wvg2osbo314hkr4dc6utp3jlxy5tfemtmfis585b&ep=v1_gifs_search&rid=giphy.gif&ct=g)
-
-</div>
-
-<div align="center" style="font-size: 18px; line-height: 1.6;">
-
-  🌟 Thanks for stopping by! 🌟<br>
-  Come back anytime – there's always something new brewing here. 🧙‍♀️
-
-</div>
-
-<div align="center">
-
-  ![Descrição do GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjI0a3RjYjg0azBnbWgzeDh5OGllaWV1cWU0OXJnZjdieHl6Z2ZnMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rVFxpI3CIO8O8UycBK/giphy.gif)
+  Thanks for visiting! Feel free to check out my projects or drop me a message �
 
 </div>
